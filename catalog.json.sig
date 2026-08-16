@@ -1,1 +1,1 @@
-{"keyId":"dev-1","signature":"d3/bcBhTXqeF0qR7rDKxYgIkpi90LeQZKJAo7zZc6/xBVALfAuLFQ//\u002BhqCM34JfK2GNga8Ttjfi1KJSFKsFBg=="}
+{"keyId":"release-1","signature":"\u002BbxWfr/zZOthuUCD7HelXIRVVJGrCIWsb87amMsFg\u002BR2iSLD50Eui41Psk1c6KFAG7gjLbc5S8H80Gkn85OWDg=="}
