@@ -1,0 +1,35 @@
+{
+  "description": {
+    "short": {
+      "de": "Verteidige deine Forschungsstation am Meeresgrund: Türme frei platzieren, aufrüsten und alle 20 Wellen samt Kraken abwehren.",
+      "en": "Defend your deep-sea research station: place towers freely, upgrade them and stop the sea monsters through all 20 waves and the Kraken."
+    },
+    "long": {
+      "de": "Meeresmonster greifen deine Forschungsstation am Meeresgrund an, und nur du kannst sie aufhalten. Scuba Siege ist ein 3D-Tower-Defense-Spiel unter Wasser: Platziere fünf einzigartige Türme frei auf dem Meeresboden, vom Harpoon Turret über den Tesla Coil bis zur Sonar Buoy, die getarnte Gegner enttarnt, und baue sie aus. Jeder Turm wächst über drei Stufen und endet in einer Entscheidung zwischen zwei Spezialisierungen. Gepanzerte Asseln, getarnte Kreaturen und Schwimmer im freien Wasser zwingen dich, dich anzupassen. Überstehe 20 Wellen entlang eines spiralförmigen Pfads und stelle dich am Ende dem Kraken. Deine beste Leistung wird gespeichert, das Spiel läuft unter Windows und Linux.",
+      "en": "Sea monsters are heading for your research station on the ocean floor, and only you can stop them. Scuba Siege is a 3D tower defense game set underwater: place five unique towers wherever you like on the seabed, from the Harpoon Turret and the Tesla Coil to the Sonar Buoy that reveals camouflaged enemies, and upgrade them. Each tower grows through three tiers and ends in a final choice between two specialisations. Armored isopods, camouflaged creatures and swimmers in open water force you to adapt. Survive 20 waves along a spiral path and face the Kraken at the end. Your best run is saved, and the game runs on Windows and Linux."
+    }
+  },
+  "features": {
+    "de": [
+      "Türme frei auf dem Meeresboden platzieren",
+      "Fünf Türme mit drei Ausbaustufen und einer A/B-Endwahl",
+      "Sieben Gegnertypen: gepanzert, getarnt und im freien Wasser",
+      "20 Wellen auf einem spiralförmigen Pfad, am Ende der Kraken",
+      "Info-Karten, Wellenvorschau und Boss-Leiste für klare Kämpfe",
+      "Heller Korallenriff-Look mit Musik, Soundeffekten und Bestleistung"
+    ],
+    "en": [
+      "Place towers freely anywhere on the seabed",
+      "Five towers with three upgrade tiers and a final A/B choice",
+      "Seven enemy types: armored, camouflaged and open-water swimmers",
+      "20 waves along a spiral path, ending with the Kraken boss",
+      "Info cards, wave preview and boss bar keep every fight readable",
+      "Bright coral-reef look with music, sound effects and a saved best run"
+    ]
+  },
+  "trailer": {
+    "url": "media/scuba-siege/scuba-siege-trailer.mp4",
+    "sizeBytes": 35774184,
+    "sha256": "FFC0112675E470827E7F0C81064EC490CA4495179A7B5E021CAAD356E32C709D"
+  }
+}
